@@ -12,6 +12,7 @@ public static void main(String[] args) {
 	System.out.println("G");
 	System.out.println("F");
 	System.out.println("H");
+	System.out.println("I");
 }
 
 }
