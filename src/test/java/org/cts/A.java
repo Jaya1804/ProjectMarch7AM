@@ -14,6 +14,7 @@ public static void main(String[] args) {
 	System.out.println("H");
 	System.out.println("C");
 	System.out.println("I");
+	System.out.println("Z");
 }
 
 }
