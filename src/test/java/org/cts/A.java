@@ -17,6 +17,7 @@ public static void main(String[] args) {
 	System.out.println("Z");
 	System.out.println("J");
 	System.out.println("K");
+	
 }
 
 }
