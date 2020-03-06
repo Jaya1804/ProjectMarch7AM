@@ -9,6 +9,7 @@ public static void main(String[] args) {
 	System.out.println("B");
 	System.out.println("D");
 	System.out.println("E");
+	System.out.println("G");
 
 }
 
